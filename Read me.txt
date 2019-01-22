@@ -1,0 +1,17 @@
+
+Steps to run test case:
+
+1- Create a Maven project in Eclipse
+2- Relevant Maven dependencies
+3- JDE, JRE installed
+4- Create new "package"under scr/test/java named as "GetRequest"
+5- Create new "Class" under created package named "GetData"
+6- Put the test case written in java using REST Assured (for API testing) and testNG (test automation framework) in the created class in step 5
+7- POM.xml file is attached in the Repository, please use this.
+8- Run the test case to validate address APIs using "Run as" for "TestNG Test"
+9- See the results in eclipse terminal that GET request actually deliver dersired functions.
+
+10- Do not forget to read test result reports under "Test output" folder
+
+Thank you.
+
